@@ -6,3 +6,11 @@ Jessica
 Khalid
 Mohamed
 
+This site will compare the economy of apple and Samsung products. Both comapnies have multiple devices they have created such as Laptops, Desktops, Watches, Tablets, and headphones. This site will compare each of those items. 
+
+The landing page will show the economy of Apple and Samsung products and will have a button named EXPLORE on both sides to explore their products 
+
+If you click EXPLORE on the apple side, You will be taken to another page that has a slide show of each apple product. (Watch, Tablet, Desktop, Headphones, Phones)
+
+If you click EXPLORE on the Samsung side, you will be taken to another page that has a slide show of each Samsung product. (watch, tablet, desktop, headphones, phones)
+
