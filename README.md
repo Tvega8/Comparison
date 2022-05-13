@@ -22,3 +22,4 @@ Mohamed:Samsung Tablet, Apple Tablet
 
 The order of the photos: 
 Headphones, Watch, Phone, Tablet, Laptop, Desktop
+test
