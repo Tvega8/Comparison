@@ -14,13 +14,11 @@ If you click EXPLORE on the apple side, You will be taken to another page that h
 
 If you click EXPLORE on the Samsung side, you will be taken to another page that has a slide show of each Samsung product. (watch, tablet, desktop, headphones, phones)
 
-Tiffany: Main photo Samsung, Samsung Phone, Samsung Desktop
-Khalid: Samsung Watch, Samsung, Headphones, Samsung Laptop 
+Tiffany: Main photo Samsung, Samsung Phone, Samsung Desktop, Design the home button 
+Khalid: Samsung Watch, Samsung, Headphones, Samsung Laptop; Fix the certical slides and make them verticale 
 Jairo: Apple watch, Apple Headphones, Apple Laptop 
 Jessica: Find the main Apple photo, Apple Phone, and Apple Desktop
 Mohamed:Samsung Tablet, Apple Tablet 
 
 The order of the photos: 
 Headphones, Watch, Phone, Tablet, Laptop, Desktop
-BLAH BLAH BLAH 
-hello team
