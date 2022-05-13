@@ -27,13 +27,30 @@ body {
   background-repeat: no-repeat;
   height: 80vh;
   border-radius: 50px;
-  color: rgb(7, 7, 7);
+  color: rgb(255, 255, 255);
   cursor: pointer;
   flex: 0.5;
   margin: 10px;
   position: relative;
   -webkit-transition: all 700ms ease-in;
 }
+.btn{
+  position: absolute;
+  display: flex;
+  align-items: left;
+  justify-content: center;
+  left: 50%;
+  top: 40%;
+  transform: translateX(-50%);
+  text-decoration: none;
+  color: #fff;
+  border: #fff solid 0.2rem;
+  font-size: 1rem;
+  width: 15rem;
+  padding: 1.5rem;
+  font-weight: bold;
+  text-transform: uppercase;
+
 
 .panel h3 {
   font-size: 24px;
