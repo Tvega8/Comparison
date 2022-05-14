@@ -36,7 +36,7 @@ h1 {
     align-items: center;
     justify-content: center;
     left: 50%;
-    top: 40%;
+    bottom: 20%;
     transform: translateX(-50%);
     text-decoration: none;
     color: #fff;
@@ -95,7 +95,7 @@ h1 {
 
 .split.right {
     right: 0;
-    background: url('Samsung.png'); 
+    background: url('Samsung.gif'); 
     background-repeat: no-repeat;
     background-size: cover;
 }
