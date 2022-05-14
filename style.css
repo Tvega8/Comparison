@@ -89,13 +89,16 @@ h1 {
 .split.left {
     left: 0;
     background: url('apple.gif');
+    background-position-x: 50%;
     background-repeat: no-repeat;
     background-size: cover;
+    
 }
 
 .split.right {
     right: 0;
     background: url('Samsung.gif'); 
+    background-position-x: 50%;
     background-repeat: no-repeat;
     background-size: cover;
 }
