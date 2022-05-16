@@ -22,3 +22,7 @@ Mohamed:Samsung Tablet, Apple Tablet
 
 The order of the photos: 
 Headphones, Watch, Phone, Tablet, Laptop, Desktop
+
+DIFFICULTY:
+ 1.Figuring out how to change the placemnet of the home button on the APPLE and SAMSUNG landing pages. It took a long time to get the right placement. 
+
