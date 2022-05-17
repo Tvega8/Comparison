@@ -25,4 +25,4 @@ Headphones, Watch, Phone, Tablet, Laptop, Desktop
 
 DIFFICULTY:
  1.Figuring out how to change the placemnet of the home button on the APPLE and SAMSUNG landing pages. It took a long time to get the right placement. 
-
+2. Figuring out how to hover over the image to give more information. 
